@@ -16,3 +16,8 @@ If you find this useful in your research, please consider citing:
         archivePrefix={arXiv},
         primaryClass={cs.LG}
     }
+    
+    
+## Code References
+
+A part of the code has been based on the publicly available codes of [_Outlier Exposure_](https://github.com/hendrycks/outlier-exposure) and [_Mahalanobis_](https://github.com/pokaxpoka/deep_Mahalanobis_detector).
