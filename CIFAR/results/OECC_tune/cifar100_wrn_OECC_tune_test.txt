@@ -1,0 +1,48 @@
+Model restored! Epoch: 29
+Error Rate 26.20
+Using CIFAR-100 as typical data
+
+Gaussian Noise (sigma = 0.5) Detection
+FPR95:			0.62
+AUROC: 			99.73
+AUPR:  			96.14
+
+Rademacher Noise Detection
+FPR95:			1.21
+AUROC: 			99.42
+AUPR:  			93.39
+
+Blob Detection
+FPR95:			1.98
+AUROC: 			99.56
+AUPR:  			96.37
+
+Texture Detection
+FPR95:			48.03
+AUROC: 			88.59
+AUPR:  			62.86
+
+SVHN Detection
+FPR95:			19.94
+AUROC: 			92.66
+AUPR:  			61.31
+
+Places365 Detection
+FPR95:			49.81
+AUROC: 			88.14
+AUPR:  			59.70
+
+LSUN Detection
+FPR95:			58.45
+AUROC: 			85.11
+AUPR:  			54.50
+
+CIFAR-10 Detection
+FPR95:			57.25
+AUROC: 			79.22
+AUPR:  			35.74
+
+Mean Test Results
+FPR95:			29.66
+AUROC: 			91.55
+AUPR:  			70.00
