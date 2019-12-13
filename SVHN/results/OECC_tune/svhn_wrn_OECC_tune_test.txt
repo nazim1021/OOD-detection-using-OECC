@@ -1,0 +1,48 @@
+Model restored! Epoch: 4
+Error Rate 1.89
+Using SVHN as typical data
+
+Gaussian Noise Detection (sigma = 0.5)
+FPR95:			0.03
+AUROC: 			99.98
+AUPR:  			99.82
+
+Bernoulli Noise Detection
+FPR95:			0.03
+AUROC: 			99.98
+AUPR:  			99.79
+
+Blob Detection
+FPR95:			0.05
+AUROC: 			99.97
+AUPR:  			99.68
+
+Icons-50 Detection
+FPR95:			0.05
+AUROC: 			99.94
+AUPR:  			99.50
+
+Texture Detection
+FPR95:			0.05
+AUROC: 			99.97
+AUPR:  			99.64
+
+Places365 Detection
+FPR95:			0.05
+AUROC: 			99.97
+AUPR:  			99.61
+
+LSUN Detection
+FPR95:			0.05
+AUROC: 			99.97
+AUPR:  			99.62
+
+CIFAR-10 Detection
+FPR95:			0.05
+AUROC: 			99.97
+AUPR:  			99.62
+
+Mean Test Results
+FPR95:			0.04
+AUROC: 			99.97
+AUPR:  			99.66
