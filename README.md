@@ -3,8 +3,8 @@
 This repository contains the essential code for the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509) (arXiv 2019).
 
 <p float="left">
-  <img src="/baseline_cifar10_places365_distribution.png" width="100" /> 
-  <img src="/OECC_cifar10_places365_distribution.png" width="100" />
+  <img src="/baseline_cifar10_places365_distribution.png" width="400" /> 
+  <img src="/OECC_cifar10_places365_distribution.png" width="400" />
 </p>
 
 ## Citation
