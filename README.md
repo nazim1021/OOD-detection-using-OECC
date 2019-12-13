@@ -1,3 +1,18 @@
 # OOD-detection-using-OECC
 
 This repository contains the essential code for the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509) (arXiv 2019).
+
+
+## Citation
+
+If you find this useful in your research, please consider citing:
+
+    @article{papadopoulos2020OECC,
+        title={Outlier Exposure with Confidence Control for Out-of-Distribution Detection},
+        author={Aristotelis-Angelos Papadopoulos and Mohammad Reza Rajati and Nazim Shaikh and Jiamian Wang},
+        year={2019},
+        journal = {arXiv preprint arXiv:1906.03509},
+        eprint={1906.03509},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG}
+    }
