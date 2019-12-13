@@ -7,7 +7,7 @@ This repository contains the essential code for the paper [_Outlier Exposure wit
 
 <p float="left">
   <img src="/baseline_cifar10_places365_distribution.png" width="400" /> 
-  <img src="/OECC_cifar10_places365_distribution.png" width="430" />
+  <img src="/OECC_cifar10_places365_distribution.png" width="410" />
 </p>
 
 
