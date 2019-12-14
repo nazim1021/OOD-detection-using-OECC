@@ -1,0 +1,26 @@
+
+Epoch 0
+iter: 0 | data_loss_ema: 0.0252 | oe_loss_ema: 0.4038
+iter: 1 | data_loss_ema: 0.0523 | oe_loss_ema: 0.6996
+iter: 2 | data_loss_ema: 0.0816 | oe_loss_ema: 0.9302
+iter: 3 | data_loss_ema: 0.1165 | oe_loss_ema: 1.0851
+iter: 4 | data_loss_ema: 0.1493 | oe_loss_ema: 1.1878
+iter: 5 | data_loss_ema: 0.1783 | oe_loss_ema: 1.2408
+iter: 6 | data_loss_ema: 0.1925 | oe_loss_ema: 1.2655
+iter: 7 | data_loss_ema: 0.2511 | oe_loss_ema: 1.2526
+iter: 8 | data_loss_ema: 0.2664 | oe_loss_ema: 1.2288
+iter: 9 | data_loss_ema: 0.3067 | oe_loss_ema: 1.2002
+test acc: 0.698 | test loss: 1.4367
+
+Epoch 1
+iter: 0 | data_loss_ema: 0.0353 | oe_loss_ema: 0.0101
+iter: 1 | data_loss_ema: 0.0641 | oe_loss_ema: 0.0193
+iter: 2 | data_loss_ema: 0.1089 | oe_loss_ema: 0.0296
+iter: 3 | data_loss_ema: 0.1551 | oe_loss_ema: 0.0375
+iter: 4 | data_loss_ema: 0.1703 | oe_loss_ema: 0.0439
+iter: 5 | data_loss_ema: 0.1984 | oe_loss_ema: 0.0465
+iter: 6 | data_loss_ema: 0.2319 | oe_loss_ema: 0.0552
+iter: 7 | data_loss_ema: 0.2480 | oe_loss_ema: 0.0597
+iter: 8 | data_loss_ema: 0.2695 | oe_loss_ema: 0.0629
+iter: 9 | data_loss_ema: 0.2936 | oe_loss_ema: 0.0658
+test acc: 0.740 | test loss: 1.2552
