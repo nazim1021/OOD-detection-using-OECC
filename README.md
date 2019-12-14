@@ -9,6 +9,7 @@ This repository contains the essential code for the paper [_Outlier Exposure wit
   <img src="/baseline_cifar10_places365_distribution.png" width="410" /> 
   <img src="/OECC_cifar10_places365_distribution.png" width="410" />
 </p>
+Histogram  of  soft-max probabilities with CIFAR-10  asDinand  Places365  asDtestout(1,000   samples   fromeach dataset).Top: MSP base-line detector.Bottom: MSP de-tector fine-tuned with (3)
 
 
 ## Citation
