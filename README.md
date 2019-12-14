@@ -9,7 +9,7 @@ This repository contains the essential code for the paper [_Outlier Exposure wit
   <img src="/baseline_cifar10_places365_distribution.png" width="410" /> 
   <img src="/OECC_cifar10_places365_distribution.png" width="410" />
 </p>
- __Figure.__ Histogram of softmax probabilities with CIFAR-10 as in-distribution data D<sub>in</sub> and Places365 as Out-of-Distribution (OOD) data D<sub>out</sub>. Note that D<sub>in</sub> and D<sub>out</sub> are disjoint. Left: MSP baseline detector. Right: MSP detector using OECC.
+ Figure. Histogram of softmax probabilities with CIFAR-10 as in-distribution data D<sub>in</sub> and Places365 as Out-of-Distribution (OOD) data D<sub>out</sub>. Note that D<sub>in</sub> and D<sub>out</sub> are disjoint. Left: MSP baseline detector. Right: MSP detector using OECC.
 
 
 ## Citation
