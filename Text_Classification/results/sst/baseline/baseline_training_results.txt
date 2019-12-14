@@ -1,0 +1,15 @@
+
+Epoch 0
+iter: 0 | loss_ema: 0.0702 | test acc: 0.715 | test loss: 0.5617
+
+Epoch 1
+iter: 0 | loss_ema: 0.0454 | test acc: 0.779 | test loss: 0.5025
+
+Epoch 2
+iter: 0 | loss_ema: 0.0204 | test acc: 0.767 | test loss: 0.5681
+
+Epoch 3
+iter: 0 | loss_ema: 0.0134 | test acc: 0.772 | test loss: 0.7610
+
+Epoch 4
+iter: 0 | loss_ema: 0.0013 | test acc: 0.778 | test loss: 0.8715
