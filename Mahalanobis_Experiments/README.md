@@ -1,3 +1,5 @@
+Use the steps below to replicate the results of Table 4
+
 ## Downloading Out-of-Distribution (OOD) Datasets
 Tiny-ImageNet and LSUN datasets can be downloaded by the following links:
 
@@ -16,5 +18,8 @@ The Pre-Trained models are also fine-tuned using the Outlier Exposure with Confi
 * [Fine-Tuned ResNet models](https://www.dropbox.com/sh/9go8i8v6wiujdrc/AADIr9foN7rpBAMiCJDVaQ7Fa?dl=0)
 
 After downloading, place the Pre-Trained models to `./pre_trained/` and the Fine-Tuned models to `./results/Mahal_OECC_tune/`.
+
+## Detecting Out-of-Distribution (OOD) samples
+First, run the notebook `OOD_Generate_Mahalanobis.ipynb` and then run the notebook `OOD_Regression_Mahalanobis.ipynb`.
 
 
