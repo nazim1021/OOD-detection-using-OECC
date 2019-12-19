@@ -6,9 +6,15 @@ Tiny-ImageNet and LSUN datasets can be downloaded by the following links:
 
 Place them to `./data/`.
 
+## Downloading Pre-Trained and Fine-Tuned Models
+For our experiments, we used the ResNet-34 network architecture. The Pre-Trained models for CIFAR-10, CIFAR-100 and SVHN datasets can be downloaded by the following link: 
 
 * [Pre-Trained ResNet models](https://www.dropbox.com/sh/zsossiqfbughrxz/AAAgN-ZJzzDBXH2csQCP-bt9a?dl=0)
 
+The Pre-Trained models are also fine-tuned using the Outlier Exposure with Confidence Control (OECC) loss function. The Fine-Tuned models for CIFAR-10, CIFAR-100 and SVHN datasets can be downloaded by the following link:
+
 * [Fine-Tuned ResNet models](https://www.dropbox.com/sh/9go8i8v6wiujdrc/AADIr9foN7rpBAMiCJDVaQ7Fa?dl=0)
+
+After downloading, place the Pre-Trained models to `./data/` 
 
 
