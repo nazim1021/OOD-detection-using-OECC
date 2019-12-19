@@ -15,6 +15,6 @@ The Pre-Trained models are also fine-tuned using the Outlier Exposure with Confi
 
 * [Fine-Tuned ResNet models](https://www.dropbox.com/sh/9go8i8v6wiujdrc/AADIr9foN7rpBAMiCJDVaQ7Fa?dl=0)
 
-After downloading, place the Pre-Trained models to `./data/` 
+After downloading, place the Pre-Trained models to `./pre_trained/` and the Fine-Tuned models to `./results/Mahal_OECC_tune/`.
 
 
