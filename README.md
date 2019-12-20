@@ -13,7 +13,9 @@ This repository contains the essential code for the paper [_Outlier Exposure wit
 
 
 ## 2. What is Outlier Exposure with Confidence Control (OECC)?
-Outlier Exposure is a technique that uses out-of-distribution data so that the model learns how to distinguish in- and out-of-distribution samples. This technique has been shown that it can generalize to new distibutions. To learn how to distinguish in- and out-of-distribution samples, [Outlier Exposure with Confidence Control (OECC)](https://arxiv.org/abs/1906.03509) makes a NN to be highly uncertain for OOD samples by producing a uniform distribution at the output of the softmax layer. At the same time, it also makes it to make predictions for in-distribution samples with an average confidence close to its training accuracy, i.e. it controls its confidence. The result of OECC is visualized in the above figure.
+Outlier Exposure (OE) is a technique that uses out-of-distribution data so that the model learns how to distinguish in- and out-of-distribution samples. This technique has been shown that it can generalize to new distibutions. To learn how to distinguish in- and out-of-distribution samples, [Outlier Exposure with Confidence Control (OECC)](https://arxiv.org/abs/1906.03509) makes a NN to be highly uncertain for OOD samples by producing a uniform distribution at the output of the softmax layer. At the same time, it also makes it to make predictions for in-distribution samples with an average confidence close to its training accuracy, i.e. it controls its confidence. 
+
+The overall OECC loss function outperforms the previous SOTA results in OOD detection with OE both in image and text classification tasks. Additionally, we experimentally show in the [paper](https://arxiv.org/abs/1906.03509) that it can be combined with post-training methods for OOD detection like the Mahalanobis detector and achieves SOTA results in the OOD detection task.   
 
 
 ## 3. Citation
