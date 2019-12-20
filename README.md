@@ -12,7 +12,11 @@ This repository contains the essential code for the paper [_Outlier Exposure wit
 <b>Figure.</b> Histogram of softmax probabilities with CIFAR-10 as in-distribution data D<sub>in</sub> and Places365 as Out-of-Distribution (OOD) data D<sub>out</sub>. Note that D<sub>in</sub> and D<sub>out</sub> are disjoint. <b>Left:</b> Standard maximum softmax probability detector. <b>Right:</b> Maximum softmax probability detector using OECC.
 
 
-## 2. Citation
+## 2. What is Outlier Exposure with Confidence Control (OECC)?
+[_Outlier Exposure_](https://github.com/hendrycks/outlier-exposure) is a technique that uses out-of-distribution data so that the model learns how to distinguish in- and out-of-distribution samples. This technique has been shown that it can generalize to new distibutions. To learn how to distinguish in- and out-of-distribution samples, Outlier Exposure with Confidence Control (OECC) makes a NN to be highly uncertain for OOD samples by producing a uniform distribution at the output of the softmax layer. At the same time, it also makes it to make predictions for in-distribution with an average confidence close to its training accuracy. The result of OECC is visualized in the above figure.
+
+
+## 3. Citation
 
 If you find this useful in your research, please consider citing:
 
@@ -27,6 +31,6 @@ If you find this useful in your research, please consider citing:
     }
     
     
-## 3. Code References
+## 4. Code References
 
 A part of the code has been based on the publicly available codes of [_Outlier Exposure_](https://github.com/hendrycks/outlier-exposure) and [_Mahalanobis_](https://github.com/pokaxpoka/deep_Mahalanobis_detector).
