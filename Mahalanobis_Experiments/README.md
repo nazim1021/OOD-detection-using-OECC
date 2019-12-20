@@ -1,6 +1,6 @@
 Use the steps below to replicate the results of <b>Table 4</b> of the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509).
 
-## Downloading Out-of-Distribution (OOD) Datasets
+## Download Out-of-Distribution (OOD) Datasets
 Tiny-ImageNet and LSUN datasets can be downloaded by the following links:
 
 * [Tiny-ImageNet (resize)](https://www.dropbox.com/s/kp3my3412u5k9rl/Imagenet_resize.tar.gz)
@@ -8,7 +8,7 @@ Tiny-ImageNet and LSUN datasets can be downloaded by the following links:
 
 Place them to `./data/`.
 
-## Downloading Pre-Trained and Fine-Tuned Models
+## Download Pre-Trained and Fine-Tuned Models
 For our experiments, we used the ResNet-34 network architecture. The Pre-Trained models for CIFAR-10, CIFAR-100 and SVHN datasets can be downloaded by the following link: 
 
 * [Pre-Trained ResNet models](https://www.dropbox.com/sh/zsossiqfbughrxz/AAAgN-ZJzzDBXH2csQCP-bt9a?dl=0)
@@ -19,7 +19,7 @@ The Pre-Trained models are also fine-tuned using the Outlier Exposure with Confi
 
 After downloading, place the Pre-Trained models to `./pre_trained/` and the Fine-Tuned models to `./results/Mahal_OECC_tune/`.
 
-## Detecting Out-of-Distribution (OOD) samples
+## Detect Out-of-Distribution (OOD) samples
 First, run the notebook `OOD_Generate_Mahalanobis.ipynb` and then run the notebook `OOD_Regression_Mahalanobis.ipynb`.
 
 
