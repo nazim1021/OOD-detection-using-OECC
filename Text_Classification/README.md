@@ -2,7 +2,7 @@ Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b
 
 ## Download Datasets
 
-## Detect Out-of-Distribution (OOD) samples
+## How to Run
 The snapshots of the evaluation results presented in <b>Table 3</b> and <b>Table 6</b> of the paper can be found in the folders `./results/XYZ/OECC/wikitext2/OECC_eval_results.txt` where XYZ can be '20ng', 'trec', 'sst'. 
 
 * To reproduce the the results presented in <b>Table 3</b> and <b>Table 6</b> of the paper, please run `Test_eval_OOD_XYZ.ipynb` where XYZ can be '20ng', 'trec', 'sst'. 
