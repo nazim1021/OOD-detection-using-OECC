@@ -1,0 +1,54 @@
+
+SNLI
+FPR90:			0.0080 (0.0000)
+AUROC:			0.9911 (0.0000)
+AUPR:			0.9488 (0.0000)
+
+IMDB
+FPR90:			0.0060 (0.0000)
+AUROC:			0.9891 (0.0000)
+AUPR:			0.9709 (0.0000)
+
+Multi30K
+FPR90:			0.0020 (0.0000)
+AUROC:			0.9990 (0.0003)
+AUPR:			0.9953 (0.0012)
+
+WMT16
+FPR90:			0.0014 (0.0009)
+AUROC:			0.9992 (0.0007)
+AUPR:			0.9974 (0.0016)
+
+English Web Treebank (Answers)
+FPR90:			0.0282 (0.0389)
+AUROC:			0.9825 (0.0058)
+AUPR:			0.9601 (0.0116)
+
+English Web Treebank (Email)
+FPR90:			0.0034 (0.0022)
+AUROC:			0.9903 (0.0054)
+AUPR:			0.9790 (0.0125)
+
+English Web Treebank (Newsgroup)
+FPR90:			0.0020 (0.0000)
+AUROC:			0.9984 (0.0009)
+AUPR:			0.9951 (0.0023)
+
+English Web Treebank (Reviews)
+FPR90:			0.0026 (0.0013)
+AUROC:			0.9968 (0.0018)
+AUPR:			0.9905 (0.0048)
+
+English Web Treebank (Weblog)
+FPR90:			0.0026 (0.0013)
+AUROC:			0.9968 (0.0018)
+AUPR:			0.9905 (0.0048)
+
+Yelp Reviews
+FPR90:			0.0080 (0.0000)
+AUROC:			0.9908 (0.0008)
+AUPR:			0.9256 (0.0047)
+
+OOD dataset mean FPR: 0.0064
+OOD dataset mean AUROC: 0.9934
+OOD dataset mean AUPR: 0.9753
