@@ -6,3 +6,9 @@ Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b
 The snapshots of the evaluation results presented in <b>Table 3</b> and <b>Table 6</b> of the paper can be found in the folders `./results/XYZ/OECC/wikitext2/OECC_eval_results.txt` where XYZ can be '20ng', 'trec', 'sst'. 
 
 * To reproduce the the results presented in <b>Table 3</b> and <b>Table 6</b> of the paper, please run `Test_eval_OOD_XYZ.ipynb` where XYZ can be '20ng', 'trec', 'sst'. 
+
+* To validate different values of the hyperparameters of the OECC loss function as mentioned in <b>Appendix B.2</b> of the paper, please run `Validation_eval_OOD_XYZ.ipynb` where XYZ can be '20ng', 'trec', 'sst'. 
+
+* To train a baseline GRU model with 2 layers, please run `baseline_train.ipynb` changing the corresponding argument for '20ng', 'trec' or 'sst'.
+
+* To fine-tune the baseline model with the OECC loss function, please run `fine_tune_OECC.ipynb` changing the corresponding argument for '20ng', 'trec' or 'sst'.
