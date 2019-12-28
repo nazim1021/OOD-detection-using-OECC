@@ -11,6 +11,8 @@ Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b
 
 * 'TREC' and 'SST' datasets will be automatically downloaded by torchtext by running the notebook `baseline_train.ipynb` after changing the corresponding argument of in-distribution dataset to 'trec' or 'sst', respectively.
 
+* 'English Web Treebank' datasets can be accessed in the following link: [_Linguistic Data Consortium_](https://catalog.ldc.upenn.edu/LDC2012T13).
+
 
 ## How to Run
 The snapshots of the evaluation results presented in <b>Table 3</b> and <b>Table 6</b> of the paper can be found in the folders `./results/XYZ/OECC/wikitext2/OECC_eval_results.txt` where XYZ can be '20ng', 'trec', 'sst'. 
