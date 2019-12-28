@@ -19,7 +19,7 @@ The Pre-Trained models are also fine-tuned using the Outlier Exposure with Confi
 
 After downloading, place the Pre-Trained models to `./pre_trained/` and the Fine-Tuned models to `./results/Mahal_OECC_tune/`.
 
-## Detect Out-of-Distribution (OOD) samples
-First, run the notebook `OOD_Generate_Mahalanobis.ipynb` and then run the notebook `OOD_Regression_Mahalanobis.ipynb`.
+## How to Run
+* To evaluate a Fine-Tuned ResNet model, please run the notebook `OOD_Generate_Mahalanobis.ipynb` by choosing the appropriate argument 'cifar10', 'cifar100', 'svhn'. This will create a `./output/` folder. Then, run the notebook `OOD_Regression_Mahalanobis.ipynb`.
 
 
