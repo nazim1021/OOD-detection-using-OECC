@@ -3,7 +3,7 @@ Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b
 ## Download Datasets
 * '20 Newsgroups' train and test datasets are already provided in the files '20ng-train.txt' and '20ng-test.txt', respectively. Please keep at their given location. 
 
-* 'Wikitext2' dataset that is for fine-tuning with the OECC loss finction is already provided in the file 'wikitext_sentences'. Please keep it at its given location.
+* 'Wikitext2' dataset that is for fine-tuning with the OECC loss function is already provided in the file 'wikitext_sentences'. Please keep it at its given location.
 
 * 'Yelp' dataset is already provided in the 'yelp.csv' file. Please keep it at its given location.
 
