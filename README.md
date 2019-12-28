@@ -16,9 +16,15 @@ The overall OECC loss function outperforms the previous SOTA results in OOD dete
   <img src="/OECC_cifar10_places365_distribution.png" width="410" />
 </p>
 <b>Figure.</b> Histogram of softmax probabilities with CIFAR-10 as in-distribution data D<sub>in</sub> and Places365 as Out-of-Distribution (OOD) data D<sub>out</sub>. Note that D<sub>in</sub> and D<sub>out</sub> are disjoint. <b>Left:</b> Standard maximum softmax probability detector. <b>Right:</b> Maximum softmax probability detector using OECC.  
+    
+
+## 3. Download Datasets
+
+Some of the less common datasets can be downloaded by the following links: [80 Million Tiny Images](http://horatio.cs.nyu.edu/mit/tiny/data/tiny_images.bin), [Icons-50](https://github.com/hendrycks/robustness),
+[Textures](https://www.robots.ox.ac.uk/~vgg/data/dtd/), [Chars74K](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishImg.tgz), and [Places365](http://places2.csail.mit.edu/download.html).
 
 
-## 3. Citation
+## 4. Citation
 
 If you find this useful in your research, please consider citing:
 
@@ -31,13 +37,6 @@ If you find this useful in your research, please consider citing:
         archivePrefix={arXiv},
         primaryClass={cs.LG}
     }
-    
-
-## 4. Download Datasets
-
-Some of the less common datasets can be downloaded by the following links: [80 Million Tiny Images](http://horatio.cs.nyu.edu/mit/tiny/data/tiny_images.bin), [Icons-50](https://github.com/hendrycks/robustness),
-[Textures](https://www.robots.ox.ac.uk/~vgg/data/dtd/), [Chars74K](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishImg.tgz), and [Places365](http://places2.csail.mit.edu/download.html).
-
 
 ## 5. Code References
 
