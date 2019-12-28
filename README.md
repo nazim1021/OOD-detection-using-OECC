@@ -24,7 +24,12 @@ Some of the less common datasets can be downloaded by the following links: [80 M
 [Textures](https://www.robots.ox.ac.uk/~vgg/data/dtd/), [Chars74K](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishImg.tgz), and [Places365](http://places2.csail.mit.edu/download.html).
 
 
-## 4. Citation
+## 4. How to Run
+
+Each folder has its own separate README file with full details describing how to run the provided code.
+
+
+## 5. Citation
 
 If you find this useful in your research, please consider citing:
 
@@ -38,6 +43,6 @@ If you find this useful in your research, please consider citing:
         primaryClass={cs.LG}
     }
 
-## 5. Code References
+## 6. Code References
 
 A part of the code has been based on the publicly available codes of [_Outlier Exposure_](https://github.com/hendrycks/outlier-exposure) and [_Mahalanobis_](https://github.com/pokaxpoka/deep_Mahalanobis_detector).
