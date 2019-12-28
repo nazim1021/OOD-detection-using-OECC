@@ -2,12 +2,12 @@ Use the steps below to replicate the results of SVHN experiments of our paper [_
 
 ## Download Datasets
 
-- The in-distribution dataset - SVHN can be downloaded from http://ufldl.stanford.edu/housenumbers/. we download the mat files and place them in the same directory as SVHN notebooks.
-- Out-of-Distribution datasets can be downloaded by the following links in the parent README file and place them in the parent directory itself.
+- The in-distribution dataset - SVHN can be downloaded from http://ufldl.stanford.edu/housenumbers/. Download the .mat files and place them in the same directory as SVHN notebooks.
+- Out-of-Distribution datasets can be downloaded by the given links in the parent README file. After downloading, please place them in the parent directory itself.
 
 
 ## How to Run
-The snapshots of the evaluation results presented in <b>Table 1</b> and <b>Table 5</b> of the paper can be found in the folders `./SVHN/results/OECC_tune/`.
+The snapshots of the evaluation results presented in <b>Table 1</b> and <b>Table 5</b> of the paper can be found in the folder `./results/OECC_tune/`.
 
 * To reproduce the results, please run `test_SVHN.ipynb`. 
 
