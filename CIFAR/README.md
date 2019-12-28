@@ -2,8 +2,8 @@ Use the steps below to replicate the results of CIFAR experiments of our paper [
 
 ## Download Datasets
 
-- The in-distribution datasets - CIFAR100 or CIFAR10 gets automatically downloaded while running dataset section any of the notebooks in the current folder.
-- Out-of-Distribution datasets can be downloaded by the following links in the parent README file and place them in the parent directory itself.
+- The in-distribution datasets - CIFAR100 or CIFAR10 gets automatically downloaded while running dataset section in any of the notebooks of the current folder.
+- Out-of-Distribution datasets can be downloaded by the given links in the parent README file. After downloading, please place them in the parent directory itself.
 
 
 ## How to Run
