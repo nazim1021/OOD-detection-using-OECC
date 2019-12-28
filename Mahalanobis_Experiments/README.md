@@ -20,7 +20,7 @@ The Pre-Trained models are also fine-tuned using the Outlier Exposure with Confi
 After downloading, place the Pre-Trained models to `./pre_trained/` and the Fine-Tuned models to `./results/Mahal_OECC_tune/`.
 
 ## How to Run
-* To evaluate a Fine-Tuned ResNet model, please run the notebook `OOD_Generate_Mahalanobis.ipynb` by choosing the appropriate argument 'cifar10', 'cifar100', 'svhn'. This will create a `./output/` folder. Then, run the notebook `OOD_Regression_Mahalanobis.ipynb`.
+* To evaluate a Fine-Tuned ResNet model, please run the notebook `OOD_Generate_Mahalanobis.ipynb` by choosing the appropriate argument 'cifar10', 'cifar100', 'svhn'. This will create a `./output/` folder. Then, run the notebook `OOD_Regression_Mahalanobis.ipynb` to replicate the results of <b>Table 4</b> of the paper.
 
 * To fine-tune a Pre-Trained ResNet model with the OECC loss function for CIFAR datasets, please run the notebook `Mahalanobis_OECC_tune_cifar.ipynb`. To run this notebook, you first need to download the datasets described in the CIFAR folder of the parent directory. 
 
