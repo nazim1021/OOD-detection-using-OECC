@@ -11,7 +11,7 @@ Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b
 
 * 'TREC' and 'SST' datasets will be automatically downloaded by torchtext by running the notebook `baseline_train.ipynb` after changing the corresponding argument of in-distribution dataset to 'trec' or 'sst', respectively.
 
-* 'English Web Treebank' datasets can be accessed in the following link: [_Linguistic Data Consortium_](https://catalog.ldc.upenn.edu/LDC2012T13).
+* For 'English Web Treebank' datasets, download the folder 'eng_web_tbk' from the following link [_EWT data_](https://www.dropbox.com/sh/gnzxsq5m39qknkb/AAAa6rWqaJIDM_pnjYKN0yD2a?dl=0) and place it to the `./.data/` folder.
 
 
 ## How to Run
