@@ -22,9 +22,9 @@ After downloading, place the Pre-Trained models to `./pre_trained/` and the Fine
 ## How to Run
 * To evaluate a Fine-Tuned ResNet model, please run the notebook `OOD_Generate_Mahalanobis.ipynb` by choosing the appropriate argument 'cifar10', 'cifar100', 'svhn'. This will create a `./output/` folder. Then, run the notebook `OOD_Regression_Mahalanobis.ipynb`.
 
-* To fine-tune a Pre-Trained ResNet model with the OECC loss function for CIFAR, please run the notebook `Mahalanobis_OECC_tune_cifar.ipynb`.
+* To fine-tune a Pre-Trained ResNet model with the OECC loss function for CIFAR datasets, please run the notebook `Mahalanobis_OECC_tune_cifar.ipynb`. To run this notebook, you first need to download the datasets described in the CIFAR folder of the parent directory. 
 
-* To fine-tune a Pre-Trained ResNet model with the OECC loss function for SVHN, please run the notebook `Mahalanobis_OECC_tune_svhn.ipynb`.
+* To fine-tune a Pre-Trained ResNet model with the OECC loss function for SVHN dataset, please run the notebook `Mahalanobis_OECC_tune_svhn.ipynb`. To run this notebook, you first need to download the datasets described in the SVHN folder of the parent directory.
 
 
 
