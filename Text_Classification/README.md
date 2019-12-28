@@ -7,9 +7,9 @@ Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b
 
 * 'Yelp' dataset is already provided in the 'yelp.csv' file. Please keep it at its given location.
 
-* 'SNLI' and 'IMDB' datasets will be automatically downloaded by torchtext by running any of the files `Test_eval_OOD_XYZ.ipynb` where XYZ can be '20ng', 'trec', 'sst'.
+* 'SNLI' and 'IMDB' datasets will be automatically downloaded by torchtext by running any of the notebooks `Test_eval_OOD_XYZ.ipynb` where XYZ can be '20ng', 'trec', 'sst'.
 
-* 'TREC' and 'SST' datasets will be automatically downloaded by torchtext by running the file `baseline_train.ipynb` by changing the corresponding argument of in-distribution dataset to 'trec' or 'sst', respectively.
+* 'TREC' and 'SST' datasets will be automatically downloaded by torchtext by running the notebook `baseline_train.ipynb` after changing the corresponding argument of in-distribution dataset to 'trec' or 'sst', respectively.
 
 
 ## How to Run
