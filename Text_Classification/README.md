@@ -13,6 +13,10 @@ Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b
 
 * For 'English Web Treebank' datasets, download the folder 'eng_web_tbk' from the following link [_EWT data_](https://www.dropbox.com/sh/gnzxsq5m39qknkb/AAAa6rWqaJIDM_pnjYKN0yD2a?dl=0) and place it to the `./.data/` folder.
 
+* For 'Multi30K' dataset, download the folder 'multi30k' from the following link [_Multi30K data_](https://www.dropbox.com/sh/gnzxsq5m39qknkb/AAAa6rWqaJIDM_pnjYKN0yD2a?dl=0) and place it to the `./.data/` folder.
+
+* For 'WMT16' dataset, download the folder 'wmt16' from the following link [_WMT16 data_](https://www.dropbox.com/sh/gnzxsq5m39qknkb/AAAa6rWqaJIDM_pnjYKN0yD2a?dl=0) and place it to the `./.data/` folder.
+
 
 ## How to Run
 The snapshots of the evaluation results presented in <b>Table 3</b> and <b>Table 6</b> of the paper can be found in the folders `./results/XYZ/OECC/wikitext2/OECC_eval_results.txt` where XYZ can be '20ng', 'trec', 'sst'. 
