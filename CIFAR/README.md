@@ -15,4 +15,4 @@ The snapshots of the evaluation results presented in <b>Table 1</b> and <b>Table
 
 * To fine-tune the baseline model with the OECC loss function, please run `OECC_tune_cifar.ipynb`.
 
-* To validate different values of the hyperparameters of the OECC loss function as mentioned in Appendix A.3 of the paper, please run Validation_eval_OOD_XYZ.ipynb where XYZ can be '20ng', 'trec', 'sst'.
+* To validate different values of the hyperparameters of the OECC loss function as mentioned in Appendix A.3 of the paper, please run `validate_cifar.ipynb`.
