@@ -7,7 +7,7 @@ Use the steps below to replicate the results of CIFAR experiments of our paper [
 
 
 ## How to Run
-The snapshots of the evaluation results presented in <b>Table 1</b> and <b>Table 5</b> of the paper can be found in the folders `./CIFAR/results/OECC_tune/`.
+The snapshots of the evaluation results presented in <b>Table 1</b> and <b>Table 5</b> of the paper can be found in the folders `./results/OECC_tune/`.
 
 * To reproduce the results, please run `test_cifar.ipynb`. 
 
