@@ -1,4 +1,4 @@
-Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 6</b> of the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509).
+Use the steps below to replicate the results of <b>Table 3</b> and <b>Table 8</b> of the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509).
 
 ## Download Datasets
 * '20 Newsgroups' train and test datasets are already provided in the files '20ng-train.txt' and '20ng-test.txt', respectively. Please keep at their given location. 
