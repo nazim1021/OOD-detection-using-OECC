@@ -1,4 +1,4 @@
-Use the steps below to replicate the results of SVHN experiments of our paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509).
+Use the steps below to replicate the results of SVHN experiments in <b>Table 1</b> and <b>Table 8</b> of our paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509).
 
 ## Download Datasets
 
