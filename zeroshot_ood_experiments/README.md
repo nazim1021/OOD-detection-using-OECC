@@ -1,4 +1,4 @@
-Use the steps below to replicate the results of zero-shot ood experiments (Table 5 and Table 6) of the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509).
+Use the steps below to replicate the results of <b>Table 5</b> and <b>Table 6</b> of the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509).
 
 ## Download Out-of-Distribution (OOD) Datasets
 Tiny-ImageNet and LSUN datasets can be downloaded by the following links:
