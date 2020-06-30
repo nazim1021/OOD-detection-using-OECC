@@ -1,5 +1,4 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/simultaneous-classification-and-novelty/out-of-distribution-detection-on-cifar-10)](https://paperswithcode.com/sota/out-of-distribution-detection-on-cifar-10?p=simultaneous-classification-and-novelty)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/simultaneous-classification-and-novelty/out-of-distribution-detection-on-cifar-100)](https://paperswithcode.com/sota/out-of-distribution-detection-on-cifar-100?p=simultaneous-classification-and-novelty)
 
 # OOD-detection-using-OECC
