@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/simultaneous-classification-and-novelty/out-of-distribution-detection-on-cifar-10)](https://paperswithcode.com/sota/out-of-distribution-detection-on-cifar-10?p=simultaneous-classification-and-novelty)
+
 # OOD-detection-using-OECC
 
 This repository contains the essential code for the paper [_Outlier Exposure with Confidence Control for Out-of-Distribution Detection_](https://arxiv.org/abs/1906.03509) (arXiv 2019).
