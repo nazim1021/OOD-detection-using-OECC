@@ -24,7 +24,7 @@ This repository contains the essential code for the paper [_Outlier Exposure wit
 ## 3. Download Datasets
 
 Some of the less common datasets can be downloaded by the following links: [80 Million Tiny Images](http://horatio.cs.nyu.edu/mit/tiny/data/tiny_images.bin), [Icons-50](https://github.com/hendrycks/robustness),
-[Textures](https://www.robots.ox.ac.uk/~vgg/data/dtd/), [Chars74K](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishImg.tgz), and [Places365](http://places2.csail.mit.edu/download.html).
+[Textures](https://www.robots.ox.ac.uk/~vgg/data/dtd/), [Chars74K](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishImg.tgz), and [Places365](http://places2.csail.mit.edu/download.html). Please also try this link in case the previous link is not working [80 Million Tiny Images](http://www.archive.org/download/80-million-tiny-images-2-of-2/tiny_images.bin).
 
 
 ## 4. How to Run
