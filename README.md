@@ -38,14 +38,14 @@ Each folder has its own separate README file with full details describing how to
 
 If you find this useful in your research, please consider citing:
 
-    @article{papadopoulos2020OECC,
-        title={Outlier Exposure with Confidence Control for Out-of-Distribution Detection},
-        author={Aristotelis-Angelos Papadopoulos and Mohammad Reza Rajati and Nazim Shaikh and Jiamian Wang},
-        year={2019},
-        journal = {arXiv preprint arXiv:1906.03509},
-        eprint={1906.03509},
-        archivePrefix={arXiv},
-        primaryClass={cs.LG}
+    @article{PAPADOPOULOS2021,
+        title = {Outlier Exposure with Confidence Control for Out-of-Distribution Detection},
+        journal = {Neurocomputing},
+        year = {2021},
+        issn = {0925-2312},
+        doi = {https://doi.org/10.1016/j.neucom.2021.02.007},
+        url = {https://www.sciencedirect.com/science/article/pii/S0925231221002393},
+        author = {Aristotelis-Angelos Papadopoulos and Mohammad Reza Rajati and Nazim Shaikh and Jiamian Wang}
     }
 
 ## 6. Code References
