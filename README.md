@@ -43,7 +43,7 @@ If you find this useful in your research, please consider citing:
         journal = {Neurocomputing},
         year = {2021},
         issn = {0925-2312},
-        doi = {https://doi.org/10.1016/j.neucom.2021.02.007},
+        doi = {10.1016/j.neucom.2021.02.007},
         url = {https://www.sciencedirect.com/science/article/pii/S0925231221002393},
         author = {Aristotelis-Angelos Papadopoulos and Mohammad Reza Rajati and Nazim Shaikh and Jiamian Wang}
     }
