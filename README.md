@@ -38,14 +38,17 @@ Each folder has its own separate README file with full details describing how to
 
 If you find this useful in your research, please consider citing:
 
-    @article{PAPADOPOULOS2021,
-        title = {Outlier Exposure with Confidence Control for Out-of-Distribution Detection},
+    @article{PAPADOPOULOS2021138,
+        title = {Outlier exposure with confidence control for out-of-distribution detection},
         journal = {Neurocomputing},
+        volume = {441},
+        pages = {138-150},
         year = {2021},
         issn = {0925-2312},
-        doi = {10.1016/j.neucom.2021.02.007},
+        doi = {https://doi.org/10.1016/j.neucom.2021.02.007},
         url = {https://www.sciencedirect.com/science/article/pii/S0925231221002393},
-        author = {Aristotelis-Angelos Papadopoulos and Mohammad Reza Rajati and Nazim Shaikh and Jiamian Wang}
+        author = {Aristotelis-Angelos Papadopoulos and Mohammad Reza Rajati and Nazim Shaikh and Jiamian Wang},
+        keywords = {Out-of-distribution detection, Regularization, Anomaly detection, Deep neural networks, Outlier exposure, Calibration}
     }
 
 ## 6. Code References
